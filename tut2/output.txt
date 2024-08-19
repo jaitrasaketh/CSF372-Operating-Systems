@@ -1,0 +1,1 @@
+This statement was originally written in the input.txt file. But ouput.txt file will copy it later and display its contents, in the parent process, after the execution of child process
